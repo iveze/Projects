@@ -50,7 +50,6 @@ class BinaryHeap:
 
 
 
-
 myheap = BinaryHeap([1, 10, 11, 12, 1000, 2, 3, 4, 6, 9])
 ll = [1, 10, 11, 12, 1000, 2, 3, 4, 6, 9]
 #for el in ll:
